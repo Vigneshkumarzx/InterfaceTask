@@ -1,0 +1,6 @@
+framework module Pods_InterfaceTask {
+  umbrella header "Pods-InterfaceTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
